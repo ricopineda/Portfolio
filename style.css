@@ -1,0 +1,167 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#wrapper{
+	width: 800px;
+	height: 1000px;
+	background: linear-gradient(75deg, black, gray, black);
+}
+
+#header{
+	display: block;
+	background-color: white;
+	padding: 20px;
+
+}
+
+#name{
+	display: inline-block;
+}
+
+#title{
+	display: inline-block;
+	float: right;
+}
+
+#main_image{
+	width: 330px;
+	height: 250px;
+	border: 4px solid gray;
+	margin:20px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#about{
+	width: 370px;
+	height: 252px;
+	background-color: white;
+	display: inline-block;
+	vertical-align: top;
+	margin:20px;
+
+}
+
+#about_header{
+	width: 100%;
+	height: 50px;
+	background: linear-gradient(15deg,gray,white,gray);
+}
+
+#about_title{
+	padding: 15px;
+	color: white;
+}
+
+.info{
+	margin: 10px;
+}
+
+#container2{
+	margin:0px 10px 20px 20px;
+}
+
+.contents{
+	display: inline-block;
+	vertical-align: top;
+	width: 230px;
+	height: 490px;
+	background-color: white;
+	margin: 10px;
+}
+
+#la_mode{
+	width:100%;
+	height:40px;
+	background:linear-gradient(40deg,gray,#b4b3bd,gray);
+}
+
+#la_mode_header{
+	padding: 10px;
+	color: white;
+}
+
+#tech_header{
+	width: 100%;
+	height: 40px;
+	background:linear-gradient(40deg,gray,#b4b3bd,gray);
+}
+
+.images{
+	width:100%;
+}
+
+.stuff{
+	padding: 10px;
+	background-color: #e5dae4;
+}
+
+#tech_text{
+	padding: 10px;
+	color: white;
+}
+
+.buttons{
+	width: 30px;
+	margin: 5px;
+}
+
+.footer{
+	padding: 10px;
+	margin-left: 80px;
+	margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
